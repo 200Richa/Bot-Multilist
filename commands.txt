@@ -1,0 +1,9 @@
+Using Source and Client files in Mac, Linux and Unix-
+
+    gcc PES1UG20CS334_F.c PES1UG20CS334_C.c
+    ./a.out
+
+Using Source and Client files in Windows -
+
+    gcc PES1UG20CS334_F.c PES1UG20CS334_C.c
+    a.exe
